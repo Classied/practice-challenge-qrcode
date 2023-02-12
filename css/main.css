@@ -21,8 +21,9 @@ main {
     align-items: center;
     border-radius: 30px;
     box-sizing: border-box;
-    width: 40%;
-}
+    width: 375px;
+   margin: auto;
+   }
 
 h2 {
     font-weight: 700;
@@ -49,7 +50,14 @@ h2 {
     color: hsl(228, 45%, 44%);
 }
 
+figure{
+    margin: 0;
+}
+
 img {
-    width: 100%;
-    border-radius: 20px;
+    width: 90%;
+    border-radius: 15px;
+    /* margin: 20px 20px; */
+    margin: 20px 0 20px 19px;
+    
 }
